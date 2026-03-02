@@ -107,7 +107,7 @@ function App() {
     <div className="app-container">
       <header className="app-header">
         <h1>Items Management</h1>
-        <p className="subtitle">Manage your items with ease</p>
+        <p className="subtitle">Manage your items with ease (Dileka)</p>
       </header>
 
       <main className="app-main">
