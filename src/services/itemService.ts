@@ -1,6 +1,6 @@
 import type { Item, CreateItemDto, UpdateItemDto } from '../types/item';
 
-const API_URL = 'http://44.198.184.186/items';
+const API_URL = 'http://44.198.184.186:3000/items';
 
 export const itemService = {
   async getAllItems(): Promise<Item[]> {
